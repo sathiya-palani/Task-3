@@ -9,4 +9,4 @@ function check (obj1, obj2) {
     }
     return true ;
 }
-console.log(check(obj1,obj2));
+
